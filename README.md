@@ -138,6 +138,17 @@ The system then displays:
 
 The project also visualizes the neuron's membrane potential over time, allowing users to observe the electrical activity produced by the Hodgkin-Huxley simulation.
 
+### Project Visualizations
+
+#### Hodgkin-Huxley Neuron Activity
+![Neuron Waveform](neuron_waveform.png)
+
+#### NeuroTwin Validation
+![Confusion Matrix](confusion_matrix.png)
+
+#### Interactive NeuroTwin Dashboard
+![NeuroTwin Dashboard](neurotwin_dashboard.png)
+
 ## Project Workflow
 
 ```text
